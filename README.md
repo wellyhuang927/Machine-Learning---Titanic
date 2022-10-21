@@ -59,7 +59,7 @@ Used **Sex(X1)**, **Age(X2)**, and **Pclass(X3)** to predict **survived or not(Y
   In Python, I used **RandomForestClassifier()** from **sklearn.ensemble**.  
   In R, I used **randomForest**.  
   ### Evaluation of Prediction
-  Used **confusion matrix**, **accuracy**, and **recall rate** to evaluate the prediction performance.
+  Used **AUC**, **confusion matrix**, **accuracy**, and **recall rate** to evaluate the prediction performance.
 
 ## Support Vector Machine (SVM)
 🔴**SVM.ipynb** and **SVM.R**  
@@ -69,4 +69,4 @@ Used **Sex(X1)**, **Age(X2)**, and **Pclass(X3)** to predict **survived or not(Y
   In Python, I used **SVC()** from **sklearn.svm**.  
   In R, I used **svm** from **e1071**.  
   ### Evaluation of Prediction
-  Used **confusion matrix**, **accuracy**, and **recall rate** to evaluate the prediction performance.
+  Used **AUC**, **confusion matrix**, **accuracy**, and **recall rate** to evaluate the prediction performance.

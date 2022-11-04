@@ -1,5 +1,5 @@
 # Machine-Learning---Titanic
-2022/05-2022/06  
+Made during 2022/05-2022/06  
 Main Content made by **Wei-Chung Huang**  
 Collaborated with **Professor Cheng-Hsi Hsieh**  
 
